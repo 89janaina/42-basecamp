@@ -30,7 +30,7 @@ ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex0
 
 C01
 --
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: SIGABORT
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK
 
 C02
 --
@@ -46,7 +46,7 @@ ex00: OK | ex01: OK | ex02: OK | ex03: Does not compile | ex04: Does not compile
 
 C05
 --
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: Does not compile | ex08: Compilation error
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: Does not compile | ex08: Does not compile
 
 C06
 --
